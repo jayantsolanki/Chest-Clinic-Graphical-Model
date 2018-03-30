@@ -1,7 +1,8 @@
 # Chest-Clinic-Graphical-Model
 
 ## Project Summary
-*** We made exact inferences about probabilistic graphical models using the state-of-the-art graphical model packages in R programming languages using gRain and Rgraphviz libraries from Bioconductor. Model was based on the Asia Chest Clinic model for Tuberculosis diagnosis for a person who has travelled to Asia and returned back with some symtomps.
+*** 
+We made exact inferences about probabilistic graphical models using the state-of-the-art graphical model packages in R programming languages using gRain and Rgraphviz libraries from Bioconductor. Model was based on the Asia Chest Clinic model for Tuberculosis diagnosis for a person who has travelled to Asia and returned back with some symtomps.
 
 ## Documentation
 ***
