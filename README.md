@@ -1,2 +1,2 @@
 # Pattern-Recognition-A2
-We will make exact inferences about probabilistic graphical models using the state-of-the-art graphical model packages in our most comfortable programming languages, and understand those exact algorithms.
+We made exact inferences about probabilistic graphical models using the state-of-the-art graphical model packages in R programming languages using gRain and Rgraphviz libraries from Bioconductor.
